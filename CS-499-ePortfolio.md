@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ePortfolio
-permalink:/CS-499-ePortfolio
+permalink: /CS-499-ePortfolio
 ---
 
 # Professional Self-Assessment
