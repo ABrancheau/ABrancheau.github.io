@@ -24,8 +24,12 @@ algorithm allowed me to use the same artifact for each enhancement and demonstra
 
 The original Grazioso Salvare program source files are housed at:
 
-https://github.com/ABrancheau/ABrancheau.github.io/tree/main/Original Artifact/Grazioso Salvare
+
+https://github.com/ABrancheau/ABrancheau.github.io/tree/main/Original%20Artifact/Grazioso%20Salvare
+
 
 And the enhanced Grazioso Salvare MEAN stack web application is located here:
 
+
 https://github.com/ABrancheau/CS-499-Capstone-Project
+
